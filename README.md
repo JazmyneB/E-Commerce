@@ -21,7 +21,7 @@
   [DEMO](https://drive.google.com/file/d/1hUmX42IvprpLrGQoJNZ8qCDYCgfGsRrS/view)
   This is part 1 of my Demo video.
 
-  [DEMO](./notes.JPG "Note Page")
+  [DEMO](https://drive.google.com/file/d/1qKpX03FinOQenDHphrtybZ_6P8G0gncq/view)
   This is Part 2 of the Demo.
 
   ## Languages
