@@ -18,10 +18,10 @@
   This app is used to create and connect databse to api routes. This is only a backend project. 
 
   ## Recordings
-  ![caption](https://drive.google.com/file/d/1hUmX42IvprpLrGQoJNZ8qCDYCgfGsRrS/view )
+  ![DEMO](https://github.com/JazmyneB/E-Commerce/issues/1#issue-955265296)
   This is part 1 of my Demo video.
 
-  ![alt text](./notes.JPG "Note Page")
+  ![DEMO](./notes.JPG "Note Page")
   This is Part 2 of the Demo.
 
   ## Languages
