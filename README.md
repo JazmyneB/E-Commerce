@@ -3,7 +3,7 @@
   
 
   ## Description
-  This app demoonstrates back-end capabilities while creating a DataBase with Sequelize and using API Routes to send in requests to display the data that is being rquested from the specific routes.
+  This app demonstrates back-end capabilities while creating a DataBase with Sequelize and using API Routes to send in requests to display the data that is being rquested from the specific routes.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -27,6 +27,7 @@
   ## Languages
   Languages Used: 
   __JavaScript__
+  __MySQL__
   
   ## Contributing
   For further contributions, please contact me via email.
